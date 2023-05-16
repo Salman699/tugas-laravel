@@ -1,0 +1,29 @@
+Judul atau Tema Aplikasi: "RecipeBox: Aplikasi Pengelola Resep Masakan"
+Skenario Singkat Penjelasan Aplikasi:
+RecipeBox adalah sebuah aplikasi yang dirancang untuk membantu pengguna dalam
+mengelola dan menemukan resep masakan. Aplikasi ini memungkinkan pengguna untuk
+menyimpan, mencari, dan berbagi resep favorit mereka. RecipeBox memberikan
+kemudahan dalam mencatat dan mengorganisir resep, serta memfasilitasi kolaborasi dan
+inspirasi dengan komunitas pengguna lainnya.
+Fitur-Fitur Aplikasi:
+1. Registrasi dan Login: Pengguna dapat mendaftar dan membuat akun, serta melakukan
+login untuk mengakses fitur-fitur aplikasi.
+2. Pencarian Resep: Pengguna dapat mencari resep berdasarkan kategori, kata kunci,
+atau bahan tertentu.
+3. Penyimpanan Resep: Pengguna dapat menyimpan resep favorit mereka ke dalam
+aplikasi dan mengelompokkannya berdasarkan kategori, misalnya makanan penutup,
+makanan sehat, atau masakan khas.
+4. Penambahan Resep Baru: Pengguna dapat menambahkan resep baru ke dalam aplikasi
+dengan mengisi informasi seperti judul, bahan, instruksi, dan foto.
+5. Modifikasi Resep: Pengguna dapat memodifikasi resep yang ada dan menyimpan variasi
+atau perubahan yang mereka buat.
+6. Penilaian dan Ulasan: Pengguna dapat memberikan penilaian dan ulasan terhadap
+resep yang mereka coba, serta melihat penilaian dan ulasan dari pengguna lain.
+7. Fitur Favorit: Pengguna dapat menandai resep favorit mereka untuk mengakses dengan
+cepat di masa mendatang.
+8. Sistem Kategori: Menyediakan kategori yang telah ditentukan sebelumnya untuk
+membantu pengguna mencari resep berdasarkan jenis masakan atau jenis diet tertentu.
+9. Fitur Berbagi: Pengguna dapat berbagi resep melalui media sosial atau mengundang
+teman-teman untuk melihat resep mereka.
+10. Komunitas dan Forum: Aplikasi dapat memiliki fitur komunitas atau forum di mana
+pengguna dapat berinteraksi, bertukar pengalaman, dan berbagi tips memasak.
